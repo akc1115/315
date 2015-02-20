@@ -1,0 +1,8 @@
+<aside>
+  Some useful links:
+  <p>
+    <a href="archive.php">Archives</a>
+    <a href="addpost.php">Add Post</a>
+    <a href="gallery.php">Photo Gallery</a>
+  </p>
+</aside>

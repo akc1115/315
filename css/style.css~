@@ -1,0 +1,36 @@
+header {
+  background-color: #51658C;
+  font-family: sans-serif;
+  color: #D9D6D0;
+}
+body {
+  background-color: #D9D6D0;
+  text-align: center;
+  font-family: sans-serif;
+}
+footer {
+  background-color: #51658C;
+  color: #D9D6D0;
+  padding: 1em;
+}
+#name {
+  font-weight: bolder;
+  font-size: 150%;
+}
+#motto {
+  
+}
+header nav {
+  text-align: right;
+}
+.article {
+  background-color: #8094A6;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+h4 {
+  color: #51658C;
+}
+header a {
+  color: #D9D6D0;
+}
